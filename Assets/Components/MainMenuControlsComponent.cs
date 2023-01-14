@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuControlsComponent : MonoBehaviour
+public class MainMenuControlsComponent : MonoBehaviour
 {
     public void ButtonStartPressed()
     {
