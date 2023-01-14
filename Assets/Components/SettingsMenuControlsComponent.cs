@@ -7,7 +7,7 @@ public class SettingsMenuControlsComponent : MonoBehaviour
 
     private void Start()
     {
-        isFullScreen = false;
+        isFullScreen = true;
     }
 
     public void FullScreenToggle()
