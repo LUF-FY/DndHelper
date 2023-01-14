@@ -10,7 +10,7 @@ public class SoundManager : MonoBehaviour
 
 
     public void OnSound()
-    { 
+    {
         int n=Random.Range(0, Sounds.Length);
         Sound.clip = Sounds[n]; 
         Sound.Play();
