@@ -79,7 +79,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Start Adventure
+  m_Text: 'Text
 
 '
 --- !u!1 &5608060289068050084
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 5608060289068050081}
   - component: {fileID: 5608060289068050082}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
