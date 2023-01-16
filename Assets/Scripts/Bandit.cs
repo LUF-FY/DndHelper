@@ -7,7 +7,7 @@ using Button = UnityEngine.UI.Button;
 public class Bandit : MonoBehaviour
 {
     // Start is called before the first frame update
-    [Tooltip("Эрик ПИДОР")]
+    [Tooltip("Эрик хер")]
     public GameObject sv;
     public Button button;
     void Start()
