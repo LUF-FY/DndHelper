@@ -629,14 +629,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663434012922920010, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6663434012922920010, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6663434012922920010, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
       propertyPath: m_AnchorMin.y
+      value: 0.3167268
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663434013624620578, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663434013624620578, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663434014174924653, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
+      propertyPath: m_ScrollSensitivity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663434014174924655, guid: 7d9e2c14748fb6b4589d9671056f5ccc, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
