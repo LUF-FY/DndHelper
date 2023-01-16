@@ -1041,6 +1041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37dc243e7a6b48b46b00837c8b2fecd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  NameScene: GameScene
 --- !u!224 &1518425984 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5608060289068050083, guid: de70739a3cfdf0d48ba506f4e21d8d4b, type: 3}
